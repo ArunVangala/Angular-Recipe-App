@@ -1,5 +1,5 @@
-🏗️ Project Structure
-recipe-app/
+#🏗️ Project Structure
+#recipe-app/
 ├── src/
 │   ├── app/
 │   │   ├── models/
